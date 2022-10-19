@@ -14,7 +14,7 @@ Contencio is a decentralized and non-custodial digital services marketplace.
 Sellers supply their skills, buyers can contract them upon clear and defined rules while judges can resolve conflict and capture a part of the protocol revenues.
 
  <p align="center">
-  <img width="100%" src="img/glyph-echo.gif" alt="logo">
+  <img width="55%" src="img/glyph-echo.gif" alt="logo">
 </p>
 
 ## Official Links
